@@ -1,7 +1,7 @@
-const page = () => {
+const Portfolio = () => {
   return (
-    <div>page</div>
+    <div>Portfolio</div>
   )
 }
 
-export default page
+export default Portfolio

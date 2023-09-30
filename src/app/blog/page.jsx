@@ -1,7 +1,7 @@
-const page = () => {
+const Blog = () => {
   return (
-    <div>page</div>
+    <div>Blog</div>
   )
 }
 
-export default page
+export default Blog
